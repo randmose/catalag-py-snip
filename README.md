@@ -1,2 +1,2 @@
-# py-face-reg
+# py-face-rec
 Facial Recognition app
